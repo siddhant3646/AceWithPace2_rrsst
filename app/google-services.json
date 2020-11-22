@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "964859542279",
+    "firebase_url": "https://acewithpace2.firebaseio.com",
+    "project_id": "acewithpace2",
+    "storage_bucket": "acewithpace2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964859542279:android:70a5f7408c8ad0a9a323a2",
+        "android_client_info": {
+          "package_name": "com.example.acewithpace2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964859542279-7j8260m9mic528qf042ed6qvuitt2b15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQq8p0cXNvyLm16jDLotLOOBS-lz5JcO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964859542279-7j8260m9mic528qf042ed6qvuitt2b15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

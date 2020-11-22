@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AceWithPace</string>
+    <string name="doc_crop">Doc-Crop</string>
+    <string name="first_slide_title">Employee Attendance</string>
+    <string name="second_slide_title">Employee Attendance</string>
+    <string name="third_slide_title">Employee Attendance</string>
+    <string name="first_slide_desc">Our services include keeping a track of employee attendences. We will assist you with a time log on a day to day basis to keep a check on Employee Absenteeism and lateness in the organisation.</string>
+    <string name="second_slide_desc">Our services include keeping a track of employee attendences. We will assist you with a time log on a day to day basis to keep a check on Employee Absenteeism and lateness in the organisation.</string>
+    <string name="third_slide_desc">Our services include keeping a track of employee attendences. We will assist you with a time log on a day to day basis to keep a check on Employee Absenteeism and lateness in the organisation.</string>
+    <string name="title_activity_main5">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
