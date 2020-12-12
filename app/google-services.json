@@ -1,34 +1,41 @@
 {
   "project_info": {
-    "project_number": "964859542279",
-    "firebase_url": "https://acewithpace2.firebaseio.com",
-    "project_id": "acewithpace2",
-    "storage_bucket": "acewithpace2.appspot.com"
+    "project_number": "459512573430",
+    "project_id": "final2-8e930",
+    "storage_bucket": "final2-8e930.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:964859542279:android:70a5f7408c8ad0a9a323a2",
+        "mobilesdk_app_id": "1:459512573430:android:66d1e35fddf22660096bd7",
         "android_client_info": {
           "package_name": "com.example.acewithpace2"
         }
       },
       "oauth_client": [
         {
-          "client_id": "964859542279-7j8260m9mic528qf042ed6qvuitt2b15.apps.googleusercontent.com",
+          "client_id": "459512573430-2s0l0aa8kbeegbd5qacu95523oqdigei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acewithpace2",
+            "certificate_hash": "f77c5d9e50ff292a5e0320fd1ce9a2507f7d5521"
+          }
+        },
+        {
+          "client_id": "459512573430-pjj0u57u89id9bm8ajkg870dm1r065hd.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCQq8p0cXNvyLm16jDLotLOOBS-lz5JcO0"
+          "current_key": "AIzaSyD2vCvFzyYfQ9zgCY4U_XNf_C9lOWYpvdE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "964859542279-7j8260m9mic528qf042ed6qvuitt2b15.apps.googleusercontent.com",
+              "client_id": "459512573430-pjj0u57u89id9bm8ajkg870dm1r065hd.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
