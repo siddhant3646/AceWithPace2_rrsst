@@ -14,5 +14,6 @@
     <color name="colorred">#FDFDFC</color>
     <color name="yellow">#FFE66D</color>
     <color name="ripple">#4CAF50</color>
+    <color name="InputBg">#bdc3c7 </color>
     <color name="back">#A2D567</color>
 </resources>

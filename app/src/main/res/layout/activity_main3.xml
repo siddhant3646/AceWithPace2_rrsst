@@ -19,7 +19,7 @@
         app:srcCompat="@drawable/undraw_message_sent_1030" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/name1"
         android:layout_width="384dp"
         android:layout_height="49dp"
         android:text="OTP Verification"

@@ -15,12 +15,19 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AceWithPace2">
         <activity
-            android:name=".MainActivity5"
-            android:label="@string/title_activity_main5"></activity>
+            android:name="com.example.LastPage"
+            android:label="@string/title_activity_last_page"
+            android:theme="@style/Theme.AceWithPace2.NoActionBar"></activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main5" />
         <activity android:name=".MainActivity4" />
         <activity android:name=".MainActivity3" />
+        <activity android:name=".shoppingcart.WalkAround" />
         <activity android:name=".OnBoardingScreen" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".MultidexFile" />
+        <activity android:name=".shoppingcart.ProductDetails" />
+        <activity android:name=".MainActivity5">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

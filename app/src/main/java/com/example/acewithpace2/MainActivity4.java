@@ -43,7 +43,7 @@ public class MainActivity4 extends AppCompatActivity {
         String mobile = intent.getStringExtra("mobile");
         sendVerificationCode(mobile);
         tv3.setText(mobile);
-        findViewById(R.id.button).setOnClickListener(new View.OnClickListener() {
+        findViewById(R.id.buttonCheckout).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 String code = editTextCode.getText().toString().trim();

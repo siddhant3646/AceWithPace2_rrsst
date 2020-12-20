@@ -18,7 +18,7 @@ public class SliderAdapter extends PagerAdapter {
     public SliderAdapter(Context context) {
         this.context = context;
     }
-    int images[] = {R.drawable.a1, R.drawable.b2, R.drawable.b3};
+    int images[] = {R.drawable.robot2, R.drawable.robot, R.drawable.robot3};
     int headings[] = {R.string.first_slide_title, R.string.second_slide_title, R.string.third_slide_title};
     int descriptions[] = {R.string.first_slide_desc, R.string.second_slide_desc, R.string.third_slide_desc};
     @Override
